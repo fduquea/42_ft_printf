@@ -1,4 +1,4 @@
-# 📝 [![fduque-a's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cli4i2e8c001108jt19bvwefz/project/3080156)](https://github.com/JaeSeoKim/badge42)
+# 📝 ft_printf [![fduque-a's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cli4i2e8c001108jt19bvwefz/project/3080156)](https://github.com/JaeSeoKim/badge42)
 
 ## Description
 
