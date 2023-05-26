@@ -18,6 +18,7 @@ The printf function in C is used to print formatted output to the console or wri
 
 ### Return value
 ◦ Returns the number of printed characters.
+
 ◦ We don't implement the buffer management of the original printf().
 
 ### Function prototype
