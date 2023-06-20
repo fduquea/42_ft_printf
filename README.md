@@ -43,6 +43,30 @@ int ft_printf(char const *s, ...);
 
 The `ft_printf` function is an implementation of the `printf` function in C. It is used to print formatted output to the console or write it to a file. The function takes a format string `s` as input, followed by a variable number of arguments.
 
+## Instructions
+
+**1. Compiling the library**
+
+To compile the library, run:
+
+```shell
+$ cd path/to/ft_printf && make
+```
+
+**2. Using it in your code**
+
+To use the library functions in your code, simply include its header:
+
+```C
+#include "ft_printf.h"
+```
+
+and, when compiling your code, add the required flags:
+
+```shell
+-lft -L path/to/libftprintf.a -I path/to/ft_printf.h
+```
+
 ## Found any issues? Contact me! 📥
 
 - Email: fduque-a@student.42porto.com
