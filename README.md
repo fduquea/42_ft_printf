@@ -39,16 +39,15 @@ int ft_printf(char const *s, ...);
 | `va_copy`  | Makes a copy of a `va_list` object.                                                                               |
 | `va_end`   | Cleans up the `va_list` object after variable argument processing is complete.                                   |
 | libft      | Functions from the libft project                                                                                 |
+## Explanation
 
-# Found any issue? Contact me! 📥
+The `ft_printf` function is an implementation of the `printf` function in C. It is used to print formatted output to the console or write it to a file. The function takes a format string `s` as input, followed by a variable number of arguments.
 
-◦ Email: fduque-a@student.42porto.com
+## Found any issues? Contact me! 📥
 
-# Might interest you!
+- Email: fduque-a@student.42porto.com
 
-### - Check my 42 common-core progress ↙️
+## Might interest you! :sparkles:
 
-[HERE](https://github.com/fduquea/42cursus)
-
-### - My 42 intra profile ↙️
-[HERE](https://profile.intra.42.fr/users/fduque-a)
+- Check my [42 common-core progress](https://github.com/fduquea/42cursus) :chart_with_upwards_trend:
+- My [42 intra profile](https://profile.intra.42.fr/users/fduque-a) :bust_in_silhouette:
